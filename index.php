@@ -11,6 +11,7 @@
 </head>
 
 <body>
+  <div2> <img src ="fundo.png.jpeg" img/> </div2>
     <div class="principal">
         <div class="form-login">
             <h1 class="logo">Agendamento Liceu</h1>
