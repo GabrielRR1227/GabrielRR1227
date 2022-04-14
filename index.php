@@ -6,8 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agendamentop Liceu</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="imagens.css">
+    <link href="logout.php" href="senhaAdministrador.php" href="add_item.php" href="login.php" href="senha.php">
+    <link rel="shortcut icon" href="teste2/agendar.png" type="teste2/agendar.png">
 </head>
 
 <body>
